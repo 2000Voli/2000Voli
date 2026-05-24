@@ -94,7 +94,6 @@ I also use AI tools to accelerate automation development and build more efficien
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2000Voli&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2000Voli&layout=compact&theme=tokyonight)
-
 ---
 
 # Contact
