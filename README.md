@@ -73,7 +73,7 @@ I also use AI tools to accelerate automation development and build more efficien
 
 # Education & Learning
 
-- B.A. in Economics
+- Bachelor’s Degree in Economics
 - Postgraduate studies in Data Science & Artificial Intelligence (starting 2026)
 - Continuous learning in Machine Learning, AI and Python development
 
