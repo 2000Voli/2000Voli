@@ -92,4 +92,5 @@ I also use AI tools to accelerate automation development and build more efficien
 
 # Contact
 
-- LinkedIn: www.linkedin.com/in/vitoria-oliveira-426539188
+- LinkedIn: [www.linkedin.com/in/vitoria-oliveira-426539188](https://www.linkedin.com/in/vitoria-santos-oliveira-5a3223161/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BByoQSBV%2BQOivlc1AcnnToA%3D%3D)
+  
